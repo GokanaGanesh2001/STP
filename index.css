@@ -71,7 +71,7 @@ body {
         position: relative;
         display: flex !important;
         flex-direction: row; /* Change this to 'row' */
-        width: 200% !important;
+        width: 195% !important;
     left: -111px;
     top: 0;
     }
